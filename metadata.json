@@ -1,0 +1,6 @@
+{
+  "name": "MiniLyrics",
+  "description": "The classic MiniLyrics synchronized music player modernized for Android 16 with online lyrics search, Romaji transliteration, 12 themes, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
